@@ -7,7 +7,7 @@ body {
 }
 
 .navbar {
-    background-color: #44B5BC;
+    background-color: red;
 }
 
 .card {
@@ -27,5 +27,5 @@ section {
 footer {
     min-height: 50px;
     padding-top: 12px;
-    background-color: #44B5BC;
+    background-color: #red;
 }
